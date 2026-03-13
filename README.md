@@ -1,12 +1,14 @@
 # Zotero Skill — 基于本地 Zotero 的 RAG 文献助手
 
-一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) Skill，通过 Zotero 本地 API 将你的个人文献库接入 Claude，形成**本地 RAG（Retrieval-Augmented Generation）**工作流：
+一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) / [Codex](https://openai.com/index/introducing-codex/) Skill，通过 Zotero 本地 API 将你的个人文献库接入 LLM，形成**本地 RAG（Retrieval-Augmented Generation）**工作流：
 
 > 检索（Retrieval）：从 Zotero 本地库中搜索、定位文献及 PDF 全文
 > 增强（Augmentation）：将论文元数据与 PDF 内容注入 LLM 上下文
 > 生成（Generation）：基于真实文献内容进行摘要、分析、对比等任务
 
-所有数据均留在本地，不依赖任何云端向量数据库。Zotero 桌面端即是你的知识库，Claude 即是你的分析引擎。
+所有数据均留在本地，不依赖任何云端向量数据库。Zotero 桌面端即是你的知识库，LLM 即是你的分析引擎。
+
+支持平台：**Claude Code** (Anthropic) 和 **Codex** (OpenAI)。
 
 ## 功能
 
