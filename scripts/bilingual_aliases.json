@@ -1,0 +1,67 @@
+{
+  "attention": [
+    "注意力",
+    "注意力机制",
+    "self-attention",
+    "自注意力"
+  ],
+  "transformer": [
+    "变压器",
+    "transformer模型"
+  ],
+  "retrieval": [
+    "检索",
+    "信息检索"
+  ],
+  "retrieval augmented generation": [
+    "rag",
+    "检索增强生成",
+    "检索增强"
+  ],
+  "large language model": [
+    "llm",
+    "大语言模型"
+  ],
+  "agent": [
+    "智能体",
+    "代理体"
+  ],
+  "multimodal": [
+    "多模态"
+  ],
+  "reasoning": [
+    "推理"
+  ],
+  "reinforcement learning": [
+    "强化学习"
+  ],
+  "diffusion": [
+    "扩散模型",
+    "扩散"
+  ],
+  "benchmark": [
+    "基准",
+    "评测"
+  ],
+  "survey": [
+    "综述",
+    "调研"
+  ],
+  "recommendation": [
+    "推荐系统",
+    "推荐"
+  ],
+  "graph neural network": [
+    "gnn",
+    "图神经网络"
+  ],
+  "knowledge graph": [
+    "知识图谱"
+  ],
+  "federated learning": [
+    "联邦学习"
+  ],
+  "domain adaptation": [
+    "领域适应"
+  ]
+}

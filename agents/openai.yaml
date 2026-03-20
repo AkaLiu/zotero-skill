@@ -1,4 +1,4 @@
 interface:
   display_name: "Zotero"
-  short_description: "搜索、浏览和深度分析 Zotero 文献库中的论文"
-  default_prompt: "Use $zotero to help with this task."
+  short_description: "搜索、双语检索、找相似论文，并联动 Claude Scholar 处理研究工作流"
+  default_prompt: "Use $zotero to search papers, inspect abstracts/PDFs, find similar work, and bridge into Claude Scholar research workflows when needed."
