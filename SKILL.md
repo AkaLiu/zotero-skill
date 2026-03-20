@@ -1,16 +1,16 @@
 ---
 name: zotero
 description: >
-  Zotero 本地文献库助手。通过 Zotero 本地 API (localhost:23119) 搜索、浏览和深度分析文献。
-  触发条件：用户提到 "zotero"、使用 /zotero 命令、或请求分析 Zotero 库中的论文。
-  功能包括：(1) 搜索文献 (2) 浏览集合/标签 (3) 查看论文元数据 (4) 阅读并分析 PDF 全文
-  (5) 论文摘要/核心概念提取/关键贡献分析 (6) 多篇论文对比
-  (7) 中英文双语关键词扩展检索 (8) 仅按摘要搜索 (9) 本地/外网相似文章推荐
-  (10) 结合 Claude Scholar 做 research ideation、citation verification、
-  review response、paper self review、Zotero 到 Obsidian 的论文知识桥接
+  Zotero local literature assistant / Zotero 本地文献库助手。Search, browse, and analyze papers
+  through the Zotero local API (localhost:23119). 触发条件：用户提到 "zotero"、使用 /zotero 命令、
+  或请求分析 Zotero 库中的论文。功能包括：(1) 搜索文献 (2) 浏览集合/标签
+  (3) 查看论文元数据 (4) 阅读并分析 PDF 全文 (5) 论文摘要/核心概念提取/关键贡献分析
+  (6) 多篇论文对比 (7) 中英文双语关键词扩展检索 (8) 仅按摘要搜索
+  (9) 本地/外网相似文章推荐 (10) 结合 Claude Scholar 做 research ideation、
+  citation verification、review response、paper self review、Zotero 到 Obsidian 的论文知识桥接
 ---
 
-# Zotero 文献分析助手
+# Zotero Literature Assistant / Zotero 文献分析助手
 
 ## 前置条件
 
