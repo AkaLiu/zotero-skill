@@ -46,6 +46,10 @@ Clone this repository into your skills directory:
 git clone https://github.com/AkaLiu/zotero-skill.git ~/.agents/skills/zotero
 ```
 
+### License
+
+This repository is released under the [MIT License](/Users/liutianyu/.agents/skills/zotero/LICENSE).
+
 ### Usage
 
 Mention `zotero` in Claude Code or use the `/zotero` command:
@@ -197,6 +201,10 @@ Zotero Skill 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-c
 ```bash
 git clone https://github.com/AkaLiu/zotero-skill.git ~/.agents/skills/zotero
 ```
+
+### 许可证
+
+本仓库采用 [MIT License](/Users/liutianyu/.agents/skills/zotero/LICENSE)。
 
 ### 使用
 
